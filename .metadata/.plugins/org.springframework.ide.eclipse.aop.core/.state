@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="mvc_quiz"/>
+<aop-project name="springCookieSession"/>
+<aop-project name="springMVC_ex01"/>
+<aop-project name="springMVC_ex02"/>
+<aop-project name="di_ex"/>
+<aop-project name="test"/>
+<aop-project name="spring_mybatis01"/>
+</aop-reference-model>

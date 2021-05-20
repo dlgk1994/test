@@ -1,0 +1,5 @@
+package com.care.rootService;
+
+public interface MemberService {
+
+}

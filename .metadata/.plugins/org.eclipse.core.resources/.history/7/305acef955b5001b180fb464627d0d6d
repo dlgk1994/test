@@ -1,0 +1,8 @@
+package com.care.root;
+
+import org.junit.runner.RunWith;
+
+@RunWith
+public class TestMember {
+
+}
